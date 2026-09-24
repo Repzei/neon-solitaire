@@ -2,7 +2,7 @@
 
 Klondike solitaire with too much neon. **One file, zero dependencies, no build step.**
 
-🎮 **Play it →** _link coming after the first deploy_
+🎮 **Play it → https://repzei.github.io/neon-solitaire/**
 
 ## Controls
 
